@@ -10,6 +10,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
+
   "scripts": {
     "start": "expo start --web",
     "android": "expo start --android",
