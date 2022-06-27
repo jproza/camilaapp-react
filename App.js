@@ -4,6 +4,7 @@ import { StyleSheet, View } from 'react-native';
 import SwiperWithRenderItems from './SwiperWithRenderItems';
 import SwiperWithChildren from './SwiperWithChildren';
 
+
 export default () => {
     return (
         <View style={styles.container}>
