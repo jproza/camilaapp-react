@@ -12,13 +12,10 @@
   },
 
   "scripts": {
-    "start": "npm start",
-    "build": "npm build",
-    "test": "npm test",
-    "eject": "npm eject"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
+    "start": "npm start --web",
+    "android": "npm start --android",
+    "ios": "npm start --ios",
+    "web": "npm start --web"
   },
   "version": "1.0.0",
   "private": true,
