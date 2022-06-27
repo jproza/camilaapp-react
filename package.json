@@ -12,7 +12,7 @@
   },
 
   "scripts": {
-    "start": "npm start --web",
+    "start": "PORT=5000 npm start --web",
     "android": "npm start --android",
     "ios": "npm start --ios",
     "web": "npm start --web"
